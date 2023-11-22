@@ -1,24 +1,25 @@
 /*
 In this project we try to light a led with switch button.
-You can try this code 
+You can try this code with if/else version too.
 */
 
-void setup() {
-  pinMode(3,OUTPUT);
+void setup()
+{
+  pinMode(3, OUTPUT);
   pinMode(5, INPUT);
 }
 
-void loop() {
-    int read = digitalRead(5);
-    digitalWrite(3, read);
-    
-    /*
-    if(read == HIGH ){
-      digitalWrite(3, HIGH);
-    }
-    else{
-      digitalWrite(3, LOW);
-    }
-    */
-    
+void loop()
+{
+  int read = digitalRead(5);
+  digitalWrite(3, read);
+
+  /*
+  if(read == HIGH ){
+    digitalWrite(3, HIGH);
+  }
+  else{
+    digitalWrite(3, LOW);
+  }
+  */
 }
