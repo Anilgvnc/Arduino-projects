@@ -28,8 +28,8 @@ Upload the code contained in this sketch on to your board
  Arduino-projects                => Arduino sketch folder
   ├── sketch_w1_delay.ino        => Week 1 examples
   ├── sketch_w2_button.ino       => Week 2 examples
-  ├──                            => Week * examples
-  └──                            => Week * examples
+  ├── sketch_w3                  => Week 3 examples
+  └── sketch_w4                  => Week 4 examples
 ....
 
 === License
