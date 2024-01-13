@@ -29,7 +29,11 @@ Upload the code contained in this sketch on to your board
   ├── sketch_w1_delay.ino        => Week 1 examples
   ├── sketch_w2_button.ino       => Week 2 examples
   ├── sketch_w3                  => Week 3 examples
-  └── sketch_w4                  => Week 4 examples
+  ├── sketch_w4                  => Week 4 examples
+  ├── sketch_w5                  => Week 5 examples
+  ├── sketch_w6                  => Week 6 examples
+  ├── sketch_w7                  => Week 7 examples
+  └── Project                    => Microprocessors & Microcontrollers Project about password controlled door lock system collabrate w/@melekari, @knbyr
 ....
 
 === License
